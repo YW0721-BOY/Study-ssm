@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/23-2-3-Spring_IoC/pom.xml" />
         <option value="$PROJECT_DIR$/23-2-3-Spring_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-03Spring_base_instance/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-02Spring_base_config/pom.xml" />
       </list>
     </option>
   </component>

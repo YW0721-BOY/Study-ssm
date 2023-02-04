@@ -6,13 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="23-2-3-Spring_IoC" />
+        <module name="23-2-3-03Spring_base_instance" />
         <module name="23-2-3-Spring_base_config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="23-2-3-01Spring_IoC" target="1.5" />
+      <module name="23-2-3-02Spring_base_config" target="8" />
+      <module name="23-2-3-03Spring_base_instance" target="8" />
       <module name="23-2-3-Spring_base_config" target="8" />
-      <module name="23-2-3-Spring_IoC" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
