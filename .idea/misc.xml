@@ -6,7 +6,19 @@
         <option value="$PROJECT_DIR$/23-2-3-Spring_IoC/pom.xml" />
         <option value="$PROJECT_DIR$/23-2-3-Spring_base_config/pom.xml" />
         <option value="$PROJECT_DIR$/23-2-3-03Spring_base_instance/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-04Spring_bean_lifecycle/pom.xml" />
         <option value="$PROJECT_DIR$/23-2-3-02Spring_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-05Spring_di_set/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-05Spring_di_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-06Spring_di_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-07Spring_di_autoware/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-08Spring_di_collection/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-09Spring_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-10Spring_container/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-11Spring_annotation_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-12Spring_annotation_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-13Spring_annotation_di/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-3-14Spring_annotation_third_bean_manager/pom.xml" />
       </list>
     </option>
   </component>

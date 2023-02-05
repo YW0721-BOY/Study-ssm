@@ -6,14 +6,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="23-2-3-03Spring_base_instance" />
+        <module name="23-2-3-05Spring_di_set" />
         <module name="23-2-3-Spring_base_config" />
+        <module name="23-2-3-11Spring_annotation_bean" />
+        <module name="23-2-3-09Spring_datasource" />
+        <module name="23-2-3-07Spring_di_autoware" />
+        <module name="23-2-3-08Spring_di_collection" />
+        <module name="23-2-3-10Spring_container" />
+        <module name="23-2-3-14Spring_annotation_third_bean_manager" />
+        <module name="23-2-3-04Spring_bean_lifecycle" />
+        <module name="23-2-3-05Spring_di_constructor" />
+        <module name="23-2-3-12Spring_annotation_manager" />
+        <module name="23-2-3-13Spring_annotation_di" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="23-2-3-01Spring_IoC" target="1.5" />
       <module name="23-2-3-02Spring_base_config" target="8" />
-      <module name="23-2-3-03Spring_base_instance" target="8" />
+      <module name="23-2-3-03Spring_bean_instance" target="8" />
+      <module name="23-2-3-04Spring_bean_lifecycle" target="8" />
+      <module name="23-2-3-05Spring_di_constructor" target="8" />
+      <module name="23-2-3-05Spring_di_set" target="8" />
+      <module name="23-2-3-06Spring_di_constructor" target="8" />
+      <module name="23-2-3-07Spring_di_autoware" target="8" />
+      <module name="23-2-3-08Spring_di_collection" target="8" />
+      <module name="23-2-3-09Spring_datasource" target="8" />
+      <module name="23-2-3-10Spring_container" target="8" />
+      <module name="23-2-3-11Spring_annotation_bean" target="8" />
+      <module name="23-2-3-12Spring_annotation_manager" target="8" />
+      <module name="23-2-3-13Spring_annotation_di" target="8" />
+      <module name="23-2-3-14Spring_annotation_third_bean_manager" target="8" />
       <module name="23-2-3-Spring_base_config" target="8" />
     </bytecodeTargetLevel>
   </component>
