@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--按类型装配，bean必须唯一，不能同时有两个bookDao-->
+    <bean id="bookDao" class="com.HM.dao.impl.BookDaoImpl" />
+    <bean id="userDao" class="com.HM.dao.impl.UserDaoImpl" />
+    <bean id="bookService" class="com.HM.service.impl.BookServiceImpl" autowire="byType"/>
+
+</beans>
