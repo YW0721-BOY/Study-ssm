@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -19,6 +22,8 @@
         <option value="$PROJECT_DIR$/23-2-3-12Spring_annotation_manager/pom.xml" />
         <option value="$PROJECT_DIR$/23-2-3-13Spring_annotation_di/pom.xml" />
         <option value="$PROJECT_DIR$/23-2-3-14Spring_annotation_third_bean_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-15-15Spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-15-16Spring_junit/pom.xml" />
       </list>
     </option>
   </component>
