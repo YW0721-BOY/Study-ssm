@@ -7,24 +7,40 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="23-2-3-05Spring_di_set" />
+        <module name="23-2-19-17Spring_aop" />
         <module name="23-2-3-09Spring_datasource" />
+        <module name="23-2-19-19Spring_aop_advice_type" />
         <module name="23-2-3-08Spring_di_collection" />
+        <module name="23-2-19-18Spring_aop_quickstart" />
+        <module name="23-2-19-21Spring-aop-advice-data" />
         <module name="23-2-3-04Spring_bean_lifecycle" />
         <module name="23-2-3-05Spring_di_constructor" />
         <module name="23-2-3-13Spring_annotation_di" />
+        <module name="23-2-19-23Spring_case_transfer" />
         <module name="23-2-15-16Spring_junit" />
+        <module name="23-2-19-22Spring-case_handle_password" />
         <module name="23-2-15-15Spring_mybatis" />
         <module name="23-2-3-Spring_base_config" />
+        <module name="23-2-19-20Spring_case_interface_run_speed" />
         <module name="23-2-3-11Spring_annotation_bean" />
         <module name="23-2-3-07Spring_di_autoware" />
         <module name="23-2-3-10Spring_container" />
         <module name="23-2-3-14Spring_annotation_third_bean_manager" />
         <module name="23-2-3-12Spring_annotation_manager" />
+        <module name="23-2-19-24Spring_case_transfer_log" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="23-2-15-15Spring_mybatis" target="8" />
       <module name="23-2-15-16Spring_junit" target="8" />
+      <module name="23-2-19-17Spring_aop" target="8" />
+      <module name="23-2-19-18Spring_aop_quickstart" target="8" />
+      <module name="23-2-19-19Spring_aop_advice_type" target="8" />
+      <module name="23-2-19-20Spring_case_interface_run_speed" target="8" />
+      <module name="23-2-19-21Spring-aop-advice-data" target="8" />
+      <module name="23-2-19-22Spring-case_handle_password" target="8" />
+      <module name="23-2-19-23Spring_case_transfer" target="8" />
+      <module name="23-2-19-24Spring_case_transfer_log" target="8" />
       <module name="23-2-3-01Spring_IoC" target="1.5" />
       <module name="23-2-3-02Spring_base_config" target="8" />
       <module name="23-2-3-03Spring_bean_instance" target="8" />

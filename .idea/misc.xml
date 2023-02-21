@@ -24,6 +24,14 @@
         <option value="$PROJECT_DIR$/23-2-3-14Spring_annotation_third_bean_manager/pom.xml" />
         <option value="$PROJECT_DIR$/23-2-15-15Spring_mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/23-2-15-16Spring_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-19-17Spring_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-19-18Spring_aop_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-19-19Spring_aop_advice_type/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-19-20Spring_case_interface_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-19-21Spring-aop-advice-data/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-19-22Spring-case_handle_password/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-19-23Spring_case_transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/23-2-19-24Spring_case_transfer_log/pom.xml" />
       </list>
     </option>
   </component>
