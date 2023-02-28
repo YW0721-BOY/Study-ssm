@@ -24,6 +24,4 @@ public class AccountServiceTest {
     public void testFindAll(){
         System.out.println(accountService.findAll());
     }
-
-
 }
