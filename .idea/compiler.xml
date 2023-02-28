@@ -6,28 +6,34 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="23-2-3-04Spring_bean_lifecycle" />
+        <module name="23-2-3-05Spring_di_constructor" />
+        <module name="23-2-19-23Spring_case_transfer" />
+        <module name="23-2-19-22Spring-case_handle_password" />
+        <module name="springmvc_01_quickstart" />
+        <module name="23-2-3-11Spring_annotation_bean" />
+        <module name="springmvc_02_bean_load" />
+        <module name="23-2-3-14Spring_annotation_third_bean_manager" />
+        <module name="springmvc_05_rest" />
+        <module name="23-2-19-24Spring_case_transfer_log" />
         <module name="23-2-3-05Spring_di_set" />
+        <module name="springmvc_06_ssm" />
         <module name="23-2-19-17Spring_aop" />
         <module name="23-2-3-09Spring_datasource" />
         <module name="23-2-19-19Spring_aop_advice_type" />
         <module name="23-2-3-08Spring_di_collection" />
         <module name="23-2-19-18Spring_aop_quickstart" />
         <module name="23-2-19-21Spring-aop-advice-data" />
-        <module name="23-2-3-04Spring_bean_lifecycle" />
-        <module name="23-2-3-05Spring_di_constructor" />
         <module name="23-2-3-13Spring_annotation_di" />
-        <module name="23-2-19-23Spring_case_transfer" />
         <module name="23-2-15-16Spring_junit" />
-        <module name="23-2-19-22Spring-case_handle_password" />
         <module name="23-2-15-15Spring_mybatis" />
+        <module name="springmvc_03_request_mapping" />
         <module name="23-2-3-Spring_base_config" />
         <module name="23-2-19-20Spring_case_interface_run_speed" />
-        <module name="23-2-3-11Spring_annotation_bean" />
         <module name="23-2-3-07Spring_di_autoware" />
         <module name="23-2-3-10Spring_container" />
-        <module name="23-2-3-14Spring_annotation_third_bean_manager" />
         <module name="23-2-3-12Spring_annotation_manager" />
-        <module name="23-2-19-24Spring_case_transfer_log" />
+        <module name="springmvc_04_request_param" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -57,6 +63,12 @@
       <module name="23-2-3-13Spring_annotation_di" target="8" />
       <module name="23-2-3-14Spring_annotation_third_bean_manager" target="8" />
       <module name="23-2-3-Spring_base_config" target="8" />
+      <module name="springmvc_01_quickstart" target="1.8" />
+      <module name="springmvc_02_bean_load" target="1.5" />
+      <module name="springmvc_03_request_mapping" target="1.5" />
+      <module name="springmvc_04_request_param" target="1.7" />
+      <module name="springmvc_05_rest" target="1.8" />
+      <module name="springmvc_06_ssm" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
